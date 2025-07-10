@@ -1,5 +1,11 @@
 # Projet Snowflake & Streamlit
 
-# 1er étape du projet
+Le but de se projet est de préparer des visualations de données en provenance de LinkedIn afin de réaliser des analyses pertinentes du marché de l'emploi.
 
-La première étape consiste à créer la BBD LinkedIn
+Le projet comporte plusieurs étapes :
+
+1. La création de la BDD LinkedIn sur Snwoflake
+
+2. La connexion au bucket S3 pour récupérer les données
+
+3. La préparation des données afin de les rendre exploitable (fichiers csv et json)
