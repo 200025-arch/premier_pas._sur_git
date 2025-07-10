@@ -2,7 +2,7 @@
 
 Le but de ce projet est de préparer des visualations de données en provenance de LinkedIn afin de réaliser des analyses pertinentes du marché de l'emploi.
 
-Le projet comporte plusieurs étapes :
+## Le projet comporte plusieurs étapes :
 
 1. La création de la BDD LinkedIn sur Snwoflake
 
