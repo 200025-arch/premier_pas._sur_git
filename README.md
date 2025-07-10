@@ -14,4 +14,4 @@ Le but de ce projet est de préparer des visualations de données en provenance 
 
 Pour mener à bien ce projet, nous utiliserons Snowflake (à la fois pour le traitement des données mais aussi pour la réalisation des visuels avec streamlit).
 
-![Logo Snowflake](/logo.png)
+<img width="275" height="183" alt="Image" src="https://github.com/user-attachments/assets/b4f8f283-1f1b-4031-9a21-a4494fd62c30" />
