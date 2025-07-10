@@ -13,4 +13,5 @@ Le projet comporte plusieurs étapes :
 4. La crétion de graphiques avec Streamlit
 
 Pour mener à bien ce projet, nous utiliserons Snowflake (à la fois pour le traitement des données mais aussi pour la réalisation des visuels avec streamlit).
-![Logo Snowflake](Snowflake_Logo.jpeg)
+
+![Logo Snowflake](/logo.png)
