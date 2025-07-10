@@ -1,6 +1,6 @@
 # Projet Snowflake & Streamlit
 
-Le but de se projet est de préparer des visualations de données en provenance de LinkedIn afin de réaliser des analyses pertinentes du marché de l'emploi.
+Le but de ce projet est de préparer des visualations de données en provenance de LinkedIn afin de réaliser des analyses pertinentes du marché de l'emploi.
 
 Le projet comporte plusieurs étapes :
 
